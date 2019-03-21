@@ -4,6 +4,13 @@ li {
   background: #faebd7;
 }
 
+body {
+  background-image: url("./background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 .label {
   font-weight: bold;
 }
